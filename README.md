@@ -2,6 +2,8 @@
 
 Update a gist to contain your latest Telegram channel message.
 
+![Screenshot](screenshot.png)
+
 ## Setup
 
 ### Using [Vercel](http://vercel.com/) and Webhooks (recommended)
